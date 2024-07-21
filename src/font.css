@@ -1,0 +1,27 @@
+@font-face {
+  font-family: "Vazirmatn";
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+  src: url(../../bootcamp-task-1/assets/font/Vazirmatn-Regular.woff2) format("woff2");
+}
+
+@font-face {
+  font-family: "Vazirmatn";
+  font-family: 900;
+  font-style: normal;
+  font-display: swap;
+  src: url(../../bootcamp-task-1/assets/font/Vazirmatn[wght].woff2) format("woff2");
+}
+
+body,
+a,
+p {
+  font-family: "Vazirmatn";
+}
+
+h1,
+h2,
+h3 {
+  font-family: "Vazirmatn";
+}
